@@ -1,0 +1,26 @@
+20/09/2022-=> training
+3/10/2022-13/10/2022-repo settup
+14/10/2022=>EN-30597=> repo settup(Node Sprint 14(oct 3-oct21),Node Sprint 15 (Oct24-Nov 11))(Node L&S - EAP - Membership - If an array or object value is sent as an include query value, error 422 with function revealing message is returned)
+17/10/2022=>EN-31912=>bug fix test case pf avatar path(Node Sprint 17 (Dec 5-Dec 23))(Node L&S - EAP - User avatar field to contain location/filename rather than full avatar image path)
+18/10/2022=>EN-33130=>bug fix( Node Sprint 17 (Dec 5-Dec 23))(re-implement bug fixes)
+19/10/2022=>EN-33130=>bug fix
+20-21/10/2022=>EN-33130=> membership services
+25-28/10/2022=>EN-32892=> EN-32892 api development.(Node Sprint 15 (Oct 24-Nov 11), Node Sprint 16 (Nov 14-02 Dec) )(Node L&S - EAP - API - Membership Bulk Delete)
+31/10/2022=>EN-33118=>((Node Sprint 15 (Oct 24-Nov 11), Node Sprint 16 (Nov 14-02 Dec) ))Node L&S - API - update ACL decorator to include group roles()
+1/11/2022=> EN-30586.((Node Sprint 15 (Oct 24-Nov 11), Node Sprint 16 (Nov 14-02 Dec) )(Node L&S - EAP Permissions & Membership Changes)
+2-3/11/2022=> EN32892 ((Node Sprint 15 (Oct 24-Nov 11), Node Sprint 16 (Nov 14-02 Dec) )(Node L&S - EAP - API - Membership Bulk Delete)
+4-8/11/2022=> EN32118 ((Node Sprint 15 (Oct 24-Nov 11), Node Sprint 16 (Nov 14-02 Dec) )(Link / Scalable Session Portal IFX)
+9/11/2022=>EN-33117
+10-11/11/2022=>EN-33428,EN-33428
+
+14/11/2022=->EN-33523,(Node Sprint 17 (Dec 5-Dec 23))(Node L&S - User Mgt Service - Include param has no effect on /user/me/advanced endpoint)
+EN-33538 (Node Sprint 16 (Nov 14-02 Dec))(Node L&S - EAP - Groups - If any of the quota fields were previously set, a user cannot update a group without retyping these values) 
+15/11/2022=>EN-33699 ((Node Sprint 15 (Oct 24-Nov 11), Node Sprint 16 (Nov 14-02 Dec) )(Node L&S - Node - Check ACL Values)
+16/11/2022=>En-28237( Node Sprint 16 (Nov 14-02 Dec)) Node L&S - User Management Service - Integration Tests - tests/Integration/Users/Authentication/Web/RegisterTest.php
+17/11/2022=>1)raised pr of ticket EN-28240 and working on ticket EN-28237
+21-24/2022=>EN-28237(Node Sprint 16 (Nov 14-02 Dec)) Node L&S - User Management Service - Integration Tests - tests/Integration/Users/Authentication/Web/RegisterTest.php
+25-30=>EN-33941, (Node Sprint 16 (Nov 14-02 Dec)) Implement payload validation in user controller to ensure integration test case passes.
+1/12/2022=>(Node Sprint 16 (Nov 14-02 Dec)) EN-28244 Node L&S - User Management Service - Integration Tests - tests/Integration/Photon/RegionTest.php
+& EN-34125.((Node Sprint 16 (Nov 14-02 Dec)))Node L&S - User Management Service - add the missing regions API endpoint
+1-2/12/2022=>ticket EN-28244
+5-6/12/2022=>EN-28163 ((Node Sprint 16 (Nov 14-02 Dec))) Node L&S - User Management Service - Integration Tests - tests/Integration/Photon/RegionTest.php
